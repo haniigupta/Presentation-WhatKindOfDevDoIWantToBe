@@ -1,4 +1,4 @@
-# Presentation: Help! How do I know What Kind of Dev do I Want to be?
+# Who are all these people? What kind of role do I want?
 
 This is a collection of the issues, links and materials I will use to complete a workshop about the different types of developers that students are choosing from.
 
