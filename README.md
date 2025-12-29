@@ -1,6 +1,7 @@
 # Who are all these people? What kind of role do I want?
 
-This is a collection of the issues, links and materials I will use to complete a workshop about the different types of developers that students are choosing from.
+This repository contains issues, links, and materials used for a workshop
+that explores different types of software development roles.
 
 ### Description:
 Front-end developer? Back-end developer? Data engineer? Security? Data scientist?
